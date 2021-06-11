@@ -1,0 +1,2 @@
+# File-Renaming-Tool
+ A lot of time we need to rename the files in our directory according to certain conventions. For example, File001.jpg, File002.jpg, File003.jpg, and this goes on. Doing this task manually can be repetitive and boring. To avoid this manual work, you can create a tool to rename a large number of files.  The main goal is to create a tool to rename files without mistakes in a couple of seconds. To rename the target files, you can use  os, sys, and shutil libraries available in Python.
